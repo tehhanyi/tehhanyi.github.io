@@ -3,7 +3,7 @@ body {font-family: "Lato", sans-serif;}
 .mySlides {display: none;}
 
 .wrapper {
-  height: 30vh;
+  height: 50vh;
   /*This part is important for centering*/
   display: flex;
   align-items: center;
